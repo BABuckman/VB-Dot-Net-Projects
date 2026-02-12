@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\bin\Debug\net10.0-windows\DemoProgressbar.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\bin\Debug\net10.0-windows\DemoProgressbar.deps.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\bin\Debug\net10.0-windows\DemoProgressbar.runtimeconfig.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\bin\Debug\net10.0-windows\DemoProgressbar.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\bin\Debug\net10.0-windows\DemoProgressbar.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.Form1.resources
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.AssemblyInfo.vb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\refint\DemoProgressbar.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\DemoProgressbar.genruntimeconfig.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoProgressbar\obj\Debug\net10.0-windows\ref\DemoProgressbar.dll

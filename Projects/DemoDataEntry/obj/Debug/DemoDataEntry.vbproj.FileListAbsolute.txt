@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\bin\Debug\DemoDataEntry.exe.config
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\bin\Debug\DemoDataEntry.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\bin\Debug\DemoDataEntry.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\bin\Debug\DemoDataEntry.xml
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.Form1.resources
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.Resources.resources
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.xml
+C:\Users\User\source\repos\First Class\Demo Projects\DemoDataEntry\obj\Debug\DemoDataEntry.pdb

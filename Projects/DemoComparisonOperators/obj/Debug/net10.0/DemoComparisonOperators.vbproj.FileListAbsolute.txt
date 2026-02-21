@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\bin\Debug\net10.0\DemoComparisonOperators.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\bin\Debug\net10.0\DemoComparisonOperators.deps.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\bin\Debug\net10.0\DemoComparisonOperators.runtimeconfig.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\bin\Debug\net10.0\DemoComparisonOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\bin\Debug\net10.0\DemoComparisonOperators.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.AssemblyInfo.vb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\refint\DemoComparisonOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\DemoComparisonOperators.genruntimeconfig.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparisonOperators\obj\Debug\net10.0\ref\DemoComparisonOperators.dll

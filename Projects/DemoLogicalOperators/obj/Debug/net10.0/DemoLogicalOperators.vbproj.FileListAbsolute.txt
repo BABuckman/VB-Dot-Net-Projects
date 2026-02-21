@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\bin\Debug\net10.0\DemoLogicalOperators.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\bin\Debug\net10.0\DemoLogicalOperators.deps.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\bin\Debug\net10.0\DemoLogicalOperators.runtimeconfig.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\bin\Debug\net10.0\DemoLogicalOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\bin\Debug\net10.0\DemoLogicalOperators.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.AssemblyInfo.vb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\refint\DemoLogicalOperators.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\DemoLogicalOperators.genruntimeconfig.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoLogicalOperators\obj\Debug\net10.0\ref\DemoLogicalOperators.dll

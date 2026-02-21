@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DemoLogicalOperators/1.0.0": {
+        "runtime": {
+          "DemoLogicalOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoLogicalOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

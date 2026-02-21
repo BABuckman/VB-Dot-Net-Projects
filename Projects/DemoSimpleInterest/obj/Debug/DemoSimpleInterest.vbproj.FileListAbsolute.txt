@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\bin\Debug\DemoSimpleInterest.exe.config
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\bin\Debug\DemoSimpleInterest.exe
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\bin\Debug\DemoSimpleInterest.pdb
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\bin\Debug\DemoSimpleInterest.xml
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.Form1.resources
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.Resources.resources
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.exe
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.xml
+C:\Users\User\source\repos\Second Class\DemoSimpleInterest\obj\Debug\DemoSimpleInterest.pdb

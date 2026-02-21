@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\bin\Debug\net10.0\DemoComparison.exe
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\bin\Debug\net10.0\DemoComparison.deps.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\bin\Debug\net10.0\DemoComparison.runtimeconfig.json
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\bin\Debug\net10.0\DemoComparison.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\bin\Debug\net10.0\DemoComparison.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.AssemblyInfo.vb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\refint\DemoComparison.dll
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.pdb
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\DemoComparison.genruntimeconfig.cache
+C:\Users\User\source\repos\First Class\Demo Projects\DemoComparison\obj\Debug\net10.0\ref\DemoComparison.dll
